@@ -6,6 +6,8 @@ package com.trig.api.profession;
 */
 interface IProfession {
 
+  
+
 
   
 
