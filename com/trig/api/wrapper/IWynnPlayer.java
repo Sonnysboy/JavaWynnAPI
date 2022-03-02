@@ -7,7 +7,6 @@ interface IWynnPlayer {
   String getName();
 
   
-  int getMaxLevel();
 
   
   

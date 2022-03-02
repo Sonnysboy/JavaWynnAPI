@@ -5,12 +5,23 @@ enum ProfessionType {
 
 
 
-  COMBAT(106),
+  COMBAT,
+  FARMING,
+  FISHING,
+  WOODCUTTING, // gathering / combat.
+  MINING,
+  
+  COOKING,
+  SCRIBING, // crafting,
+  WOODWORKING,
+  TAILORING,
+  ARMORING, // im american
+  JEWELING,
+  WEAPONSMITHING;
+  
+  
   ;
 
-  ProfessionType(int maxLevel) {
-    
-  }
 
   
 }
